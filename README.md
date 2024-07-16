@@ -38,6 +38,8 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 - Includes options to view and update personal details.
 - Enhances personalization and user management within the app.
 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 ### Quiz Screen
 
@@ -49,23 +51,26 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 - The Quiz Screen presents questions with multiple-choice options.
 - Includes a countdown timer, background music, and animated transitions.
 - Users select answers and receive immediate feedback through GIFs and messages.
+------------------------------------------------------------------------------------------
 - The Feedback Screen appears after answering each question.
 - Displays a GIF and message based on whether the answer was correct or incorrect.
 - Offers an option to proceed to the next question or try again.
 
-
-### Profile Screen
-
-
-
-
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 ### Learn More Screen
 
-![Quiz Screen](screenshots/quiz_screen.jpg)
+
+| Pdf Selection Screen                                          | Pdf Viewer Screen                                       |
+|---------------------------------------------------------------|---------------------------------------------------------|
+| ![Pdf Selection Screen](screenshots/pdf_selection_screen.jpg) | ![Pdf Viewer Screen](screenshots/pdf_viewer_screen.jpg) |
+
 - The Learn More Screen provides additional information about the quiz content.
 - Includes details such as quiz rules, instructions, or educational content.
 - Enhances user experience with relevant resources and explanations.
+
+
 
 
 ### Marks Screen
