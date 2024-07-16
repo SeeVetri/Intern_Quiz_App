@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737253877501",
+    "project_id": "internquiz-a3fd0",
+    "storage_bucket": "internquiz-a3fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737253877501:android:72a7b57f73f0b2a9a44094",
+        "android_client_info": {
+          "package_name": "com.example.intern_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSxjrjM14DnlcDZB3KOlqvRFyZBczGrRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

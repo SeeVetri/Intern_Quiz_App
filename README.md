@@ -1,0 +1,85 @@
+# intern_quiz_app
+
+Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz application with interactive features and visual feedback for correct and incorrect answers.
+
+## Screenshots and Explanations
+
+### Home Screen
+
+![Home Screen](screenshots/home_screen.png)
+
+- The Home Screen is the initial screen users see upon opening the app.
+- It provides options to start the quiz or learn about the quiz app.
+- Features include navigation buttons and a clean, user-friendly design.
+
+### Login Screen
+
+![Login Screen](screenshots/login_screen.png)
+
+- The Login Screen allows users to authenticate with their credentials.
+- Includes fields for username and password, with options for social login.
+- Provides a link to register if the user is new.
+
+### Register Screen
+
+![Register Screen](screenshots/register_screen.png)
+
+- The Register Screen enables new users to create an account.
+- Fields include email, password, and additional details for registration.
+- Includes validation and error handling for input fields.
+
+### Learn More Screen
+
+![Learn More Screen](screenshots/learn_more_screen.png)
+
+- The Learn More Screen provides additional information about the quiz content.
+- Includes details such as quiz rules, instructions, or educational content.
+- Enhances user experience with relevant resources and explanations.
+
+### About Screen
+
+![About Screen](screenshots/about_screen.png)
+
+- The About Screen offers insights into the purpose and features of the quiz app.
+- Includes details about the developer, app version, and acknowledgments.
+- Enhances transparency and trust by providing background information.
+
+### Profile Screen
+
+![Profile Screen](screenshots/profile_screen.png)
+
+- The Profile Screen displays user information and settings.
+- Includes options to view and update personal details.
+- Enhances personalization and user management within the app.
+
+### Quiz Screen
+
+![Quiz Screen](screenshots/quiz_screen.png)
+
+- The Quiz Screen presents questions with multiple-choice options.
+- Includes a countdown timer, background music, and animated transitions.
+- Users select answers and receive immediate feedback through GIFs and messages.
+
+### Feedback Screen
+
+![Feedback Screen - Correct Answer](screenshots/feedback_screen_correct.png)
+![Feedback Screen - Incorrect Answer](screenshots/feedback_screen_incorrect.png)
+
+- The Feedback Screen appears after answering each question.
+- Displays a GIF and message based on whether the answer was correct or incorrect.
+- Offers an option to proceed to the next question or try again.
+
+### Marks Screen
+
+![Marks Screen](screenshots/marks_screen.png)
+
+- The Marks Screen shows the final score after completing the quiz.
+- Users can view their score and navigate to other parts of the app.
+- Provides a summary of performance and an option to restart the quiz.
+
+## Getting Started
+
+To run this Flutter project locally:
+
+1. Clone the repository:
+
