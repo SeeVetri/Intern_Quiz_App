@@ -30,7 +30,7 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### Learn More Screen
 
-![Learn More Screen](screenshots/learn_more_screen.png)
+![Learn More Screen](screenshots/pdf_selection_screen.png)
 
 - The Learn More Screen provides additional information about the quiz content.
 - Includes details such as quiz rules, instructions, or educational content.
@@ -62,8 +62,8 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### Feedback Screen
 
-![Feedback Screen - Correct Answer](screenshots/feedback_screen_correct.png)
-![Feedback Screen - Incorrect Answer](screenshots/feedback_screen_incorrect.png)
+![Feedback Screen - Correct Answer](screenshots/correct_feedback_screen.png)
+![Feedback Screen - Incorrect Answer](screenshots/incorrect_feedback_screen.png)
 
 - The Feedback Screen appears after answering each question.
 - Displays a GIF and message based on whether the answer was correct or incorrect.
