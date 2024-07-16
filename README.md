@@ -79,6 +79,27 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+### Database Design
+
+
+| User Database                         | Question Database                         |
+|---------------------------------------|-------------------------------------------|
+| ![Db1](screenshots/database_user.png) | ![Db2](screenshots/database_question.png) |
+
+- A database user is an entity or account that has specific permissions to access and interact with a database management system (DBMS).
+- Users are typically authenticated using credentials (like username and password) and are granted privileges to perform operations such as querying, inserting, updating, and deleting data within databases.
+- Each database user can have distinct roles and permissions assigned, governing their access level and actions they can perform within the database environment.
+------------------------------------------------------------------------------------------
+- Options Array: Contains multiple strings representing different translations or meanings associated with a specific word or phrase from the Quranic verse.
+- Translation: Provides the literal translation of the Quranic word or phrase in question, aiding users in understanding its meaning in a different language.
+- Word: Represents the original Arabic text from the Quran, preserving its authenticity and providing a reference point for the translations offered.
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
 ## Getting Started
 
 To run this Flutter project locally:
