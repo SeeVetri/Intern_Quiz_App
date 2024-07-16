@@ -59,27 +59,23 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 
-### Learn More Screen
+### Learn More and Marks Screen
 
 
-| Pdf Selection Screen                                          | Pdf Viewer Screen                                       |
-|---------------------------------------------------------------|---------------------------------------------------------|
-| ![Pdf Selection Screen](screenshots/pdf_selection_screen.jpg) | ![Pdf Viewer Screen](screenshots/pdf_viewer_screen.jpg) |
+| Pdf Selection Screen                                            | Pdf Viewer Screen                                       | Marks Screen                                   |
+|-----------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------|
+| ![Pdf Selection Screen](screenshots/pdf_selection_screen.jpg)   | ![Pdf Viewer Screen](screenshots/pdf_viewer_screen.jpg) | ![Marks Screen](screenshots/marks_screen.jpg)  |
 
 - The Learn More Screen provides additional information about the quiz content.
 - Includes details such as quiz rules, instructions, or educational content.
 - Enhances user experience with relevant resources and explanations.
-
-
-
-
-### Marks Screen
-
-![Marks Screen](screenshots/marks_screen.jpg)
-
+------------------------------------------------------------------------------------------
 - The Marks Screen shows the final score after completing the quiz.
 - Users can view their score and navigate to other parts of the app.
 - Provides a summary of performance and an option to restart the quiz.
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 ## Getting Started
 
