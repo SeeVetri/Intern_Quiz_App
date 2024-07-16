@@ -1,6 +1,6 @@
 # intern_quiz_app
 
-Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz application with interactive features and visual feedback for correct and incorrect answers.
+Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz to learn Al-Quaran in easy way !!.
 
 ## Screenshots and Explanations
 
@@ -43,7 +43,7 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 
-### Quiz Screen
+### Quiz and Feedback Screen
 
 
 | Quiz Screen                                 | Correct Feedback                                             | Incorrect Feedback                                               |
