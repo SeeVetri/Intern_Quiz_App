@@ -6,7 +6,10 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### Home Screen
 
-![Home Screen](screenshots/home_screen.jpg)
+| Main Page                                                                                 | Login Page                                                                                         |
+|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| ![Screenshot 1](screenshots/home_screen.jpg) | ![Screenshot 2](screenshots/home_screen.jpg) |
+
 
 - The Home Screen is the initial screen users see upon opening the app.
 - It provides options to start the quiz or learn about the quiz app.
