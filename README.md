@@ -19,16 +19,19 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 - Includes validation and error handling for input fields.
 
 
-### Home Screen
+### Home and About Screen
 
-| Main Page                                                                                 | Login Page                                                                                         |
-|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| ![Screenshot 1](screenshots/home_screen.jpg) | ![Screenshot 2](screenshots/home_screen.jpg) |
+| Main Page                                   | About Page                                   |
+|---------------------------------------------|----------------------------------------------|
+| ![Home Screen](screenshots/home_screen.jpg) | ![About Screen](screenshots/about_screen.jpg) |
 
 
 - The Home Screen is the initial screen users see upon opening the app.
 - It provides options to start the quiz or learn about the quiz app.
 - Features include navigation buttons and a clean, user-friendly design.
+- The About Screen offers insights into the purpose and features of the quiz app.
+- Includes details about the developer, app version, and acknowledgments.
+- Enhances transparency and trust by providing background information.
 
 
 ### Learn More Screen
@@ -39,13 +42,6 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 - Includes details such as quiz rules, instructions, or educational content.
 - Enhances user experience with relevant resources and explanations.
 
-### About Screen
-
-![About Screen](screenshots/about_screen.jpg)
-
-- The About Screen offers insights into the purpose and features of the quiz app.
-- Includes details about the developer, app version, and acknowledgments.
-- Enhances transparency and trust by providing background information.
 
 ### Profile Screen
 
