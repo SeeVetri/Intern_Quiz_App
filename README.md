@@ -1,4 +1,4 @@
-# intern_quiz_app
+# INTERN QUIZ AL-QURAN APP
 
 Welcome to QUIZ AL-QURAN ! This Flutter project is designed to create a quiz to learn Al-Quran in easy way !!
 
