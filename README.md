@@ -6,7 +6,7 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### Home Screen
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/home_screen.jpg)
 
 - The Home Screen is the initial screen users see upon opening the app.
 - It provides options to start the quiz or learn about the quiz app.
@@ -14,7 +14,7 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### Login Screen
 
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](screenshots/login_screen.jpg)
 
 - The Login Screen allows users to authenticate with their credentials.
 - Includes fields for username and password, with options for social login.
@@ -22,7 +22,7 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### Register Screen
 
-![Register Screen](screenshots/register_screen.png)
+![Register Screen](screenshots/register_screen.jpg)
 
 - The Register Screen enables new users to create an account.
 - Fields include email, password, and additional details for registration.
@@ -30,7 +30,7 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### Learn More Screen
 
-![Learn More Screen](screenshots/pdf_selection_screen.png)
+![Learn More Screen](screenshots/pdf_selection_screen.jpg)
 
 - The Learn More Screen provides additional information about the quiz content.
 - Includes details such as quiz rules, instructions, or educational content.
@@ -38,7 +38,7 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### About Screen
 
-![About Screen](screenshots/about_screen.png)
+![About Screen](screenshots/about_screen.jpg)
 
 - The About Screen offers insights into the purpose and features of the quiz app.
 - Includes details about the developer, app version, and acknowledgments.
@@ -46,7 +46,7 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### Profile Screen
 
-![Profile Screen](screenshots/profile_screen.png)
+![Profile Screen](screenshots/profile_screen.jpg)
 
 - The Profile Screen displays user information and settings.
 - Includes options to view and update personal details.
@@ -54,7 +54,7 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### Quiz Screen
 
-![Quiz Screen](screenshots/quiz_screen.png)
+![Quiz Screen](screenshots/quiz_screen.jpg)
 
 - The Quiz Screen presents questions with multiple-choice options.
 - Includes a countdown timer, background music, and animated transitions.
@@ -62,8 +62,8 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### Feedback Screen
 
-![Feedback Screen - Correct Answer](screenshots/correct_feedback_screen.png)
-![Feedback Screen - Incorrect Answer](screenshots/incorrect_feedback_screen.png)
+![Feedback Screen - Correct Answer](screenshots/correct_feedback_screen.jpg)
+![Feedback Screen - Incorrect Answer](screenshots/incorrect_feedback_screen.jpg)
 
 - The Feedback Screen appears after answering each question.
 - Displays a GIF and message based on whether the answer was correct or incorrect.
@@ -71,7 +71,7 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ### Marks Screen
 
-![Marks Screen](screenshots/marks_screen.png)
+![Marks Screen](screenshots/marks_screen.jpg)
 
 - The Marks Screen shows the final score after completing the quiz.
 - Users can view their score and navigate to other parts of the app.
