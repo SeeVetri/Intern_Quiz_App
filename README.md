@@ -1,6 +1,6 @@
 # intern_quiz_app
 
-Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz to learn Al-Quaran in easy way !!.
+Welcome to QUIZ AL-QUARAN ! This Flutter project is designed to create a quiz to learn Al-Quaran in easy way !!
 
 ## Screenshots and Explanations
 
