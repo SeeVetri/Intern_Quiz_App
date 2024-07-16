@@ -4,20 +4,22 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 
 ## Screenshots and Explanations
 
-### Login and Register Screen
+### Splash, Login and Register Screen
 
-| Login Page                                    | Register Page                                       |
-|-----------------------------------------------|-----------------------------------------------------|
-| ![Login Screen](screenshots/login_screen.jpg) | ![Register Screen](screenshots/register_screen.jpg) |
+| Splash Page                                     | Login Page                                    | Register Page                                       |
+|-------------------------------------------------|-----------------------------------------------|-----------------------------------------------------|
+| ![Splash Screen](screenshots/splash_screen.jpg) | ![Login Screen](screenshots/login_screen.jpg) | ![Register Screen](screenshots/register_screen.jpg) |
 
 - The Login Screen allows users to authenticate with their credentials.
 - Includes fields for username and password, with options for social login.
 - Provides a link to register if the user is new.
-
+------------------------------------------------------------------------------------------
 - The Register Screen enables new users to create an account.
 - Fields include email, password, and additional details for registration.
 - Includes validation and error handling for input fields.
 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 ### Home, About and Profile Screen
 
@@ -82,4 +84,6 @@ Welcome to `intern_quiz_app`! This Flutter project is designed to create a quiz 
 To run this Flutter project locally:
 
 1. Clone the repository:
+2. Update Pub get in pubspec.yaml
+3. Flutter run to install in phone
 
